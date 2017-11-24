@@ -1,0 +1,9 @@
+E:\Projects\DemoSkinSharp\DemoSkinSharp\bin\Release\DemoSkinSharp.exe
+E:\Projects\DemoSkinSharp\DemoSkinSharp\bin\Release\DemoSkinSharp.pdb
+E:\Projects\DemoSkinSharp\DemoSkinSharp\bin\Release\SkinH_CS.dll
+E:\Projects\DemoSkinSharp\DemoSkinSharp\obj\Release\DemoSkinSharp.Form1.resources
+E:\Projects\DemoSkinSharp\DemoSkinSharp\obj\Release\DemoSkinSharp.Properties.Resources.resources
+E:\Projects\DemoSkinSharp\DemoSkinSharp\obj\Release\DemoSkinSharp.csproj.GenerateResource.Cache
+E:\Projects\DemoSkinSharp\DemoSkinSharp\obj\Release\DemoSkinSharp.exe
+E:\Projects\DemoSkinSharp\DemoSkinSharp\obj\Release\DemoSkinSharp.pdb
+E:\Projects\DemoSkinSharp\DemoSkinSharp\obj\Release\DemoSkinSharp.csprojResolveAssemblyReference.cache
